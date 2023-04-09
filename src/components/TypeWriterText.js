@@ -90,7 +90,7 @@ const TypeWriterText = () => {
               .typeString("<span class='text-1'>Cardano.</span>")
               .pauseFor(2000)
               .deleteAll()
-              .typeString("<span class='text-2'>Digital Collectibles.</span>")
+              .typeString("<span class='text-2'>Opportunity.</span>")
               .pauseFor(2000)
               .deleteAll()
               .typeString("<span class='text-3'>NFTs</span>")
