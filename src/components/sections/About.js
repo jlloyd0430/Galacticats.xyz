@@ -167,7 +167,7 @@ const About = () => {
             <ThemeProvider theme={dark}>
               <Button
                 text="JOIN OUR DISCORD"
-                href="https://discord.gg/euqK7tjmkj"
+                link="https://discord.gg/euqK7tjmkj"
               />
             </ThemeProvider>
           </ButtonContainer>
