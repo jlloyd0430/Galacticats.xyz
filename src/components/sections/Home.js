@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { keyframes } from "styled-components";
-import CoverVideo from "../CoverVideo";
 import TypeWriterText from "../TypeWriterText";
+import yarnImage from "../../assets/Gcimages/yarn.JPG";
 
 const Section = styled.section`
   min-height: ${(props) => `calc(100vh - ${props.theme.navHeight})`};
@@ -27,7 +27,7 @@ const Container = styled.div`
     flex-direction: column-reverse;
     width: 100%;
 
-    &>*: first-child {
+    & > *:first-child {
       width: 100%;
       margin-top: 2rem;
     }
@@ -101,6 +101,11 @@ const Circle = styled.span`
   }
 `;
 
+const Image = styled.img`
+  width: 100%;
+  height: auto;
+`;
+
 const Home = () => {
   return (
     <Section id="home">
@@ -109,7 +114,7 @@ const Home = () => {
           <TypeWriterText />
         </Box>
         <Box>
-          <CoverVideo />
+          <Image src={yarnImage} alt="My Photo" />
         </Box>
       </Container>
     </Section>
