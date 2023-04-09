@@ -28,6 +28,9 @@ const NavBar = styled.nav`
     .mobile {
       display: inline-block;
     }
+
+    /* added code */
+    justify-content: space-between;
   }
 `;
 
@@ -95,7 +98,7 @@ const HamburguerMenu = styled.span`
 
   position: absolute;
   top: 2rem;
-  left: 50%;
+  right: 0; /* added code */
   transform: ${(props) =>
     props.click
       ? "translateX(-50%) rotate(90deg)"

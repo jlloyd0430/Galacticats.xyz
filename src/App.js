@@ -6,7 +6,7 @@ import Navigation from "./components/Navigation";
 import Home from "./components/sections/Home";
 import About from "./components/sections/About";
 import Roadmap from "./components/sections/Roadmap";
-import Showcase from "./components/sections/Showcase";
+import Scratch from "./components/sections/Scratch";
 import Team from "./components/sections/Team";
 import Faq from "./components/sections/Faq";
 import Footer from "./components/Footer";
@@ -21,7 +21,13 @@ function App() {
         <Home />
         <About />
         <Roadmap />
-        <Showcase />
+        <Scratch
+          title="$SCRATCH Token"
+          description="$SCRATCH is the utility token for the Galacticats ecosystem"
+          buttonText="View ScratchPaper "
+          buttonOnClick={() => alert("Button clicked!")}
+          buttonLink="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
+        />
         <Team />
         <Faq />
         <Footer />

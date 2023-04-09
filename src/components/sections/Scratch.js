@@ -35,11 +35,16 @@ const Text = styled.p`
   margin-bottom: 2rem;
 `;
 
-const ImageDescription = ({
+const StyledButton = styled(Button)`
+  background-color: white;
+`;
+
+const Scratch = ({
   title,
   description,
   buttonText,
   buttonOnClick,
+  buttonLink,
 }) => {
   return (
     <Container>
@@ -47,10 +52,12 @@ const ImageDescription = ({
       <Description>
         <Title>{title}</Title>
         <Text>{description}</Text>
-        <Button onClick={buttonOnClick}>{buttonText}</Button>
+        <StyledButton onClick={buttonOnClick} href={buttonLink}>
+          {buttonText}
+        </StyledButton>
       </Description>
     </Container>
   );
 };
 
-export default ImageDescription;
+export default Scratch;
