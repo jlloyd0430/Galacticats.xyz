@@ -91,42 +91,29 @@ const Faq = () => {
       <Title>FAQ</Title>
       <Container>
         <Box>
-          <Accordion title="WHERE CAN I VIEW MY NFTS?">
-            Once minted or bought simply connect to your OpenSea account to view
-            your NFTs.
-          </Accordion>
-          <Accordion title="WHAT IS THE METAVERSE?">
-            A metaverse is a network of 3D virtual worlds focused on social
-            connection. In futurism and science fiction, it is often described
-            as a hypothetical iteration of the Internet as a single, universal
-            virtual world that is facilitated by the use of virtual and
-            augmented reality headsets.
-          </Accordion>
-          <Accordion title="WHY DO WE NEED ROYALTIES?">
-            The amount of royalties was fixed at 5% to finance the Weirdos
-            Club's projects. We have the ambition to organize multiple events
-            around the world in order to strengthen the community and build a
-            network of entrepreneurs and investors with the same mindset and
-            common interests.
-          </Accordion>
+          <Accordion title="MINT PRICE?">.</Accordion>
+          yarn= 140 ADA , Galacticats = 100 ADA
+          <Accordion title="WHAT IS YARN DAO?"></Accordion>
+          YARN DAOs primary mission is to get $SCRATCH listed on exchanges and
+          create use cases for $SCRATCH balancing the supply and demand.
+          <Accordion title="WHEN MINT?"></Accordion>
+          the mint date is still TBD.
         </Box>
         <Box>
-          <Accordion title="HOW CAN I USE MY NFT?">
-            You will be able to use your NFT as an avatar in the Metaverse and
-            our future video game. Holding also means that you are part of an
-            exclusive network of investors and entrepreneurs.
+          <Accordion title="What is $SCRATCH?">
+            $SCRATCH is the main utility token for powering the Galactic
+            ecosystem. governed by the YARN DAO.
           </Accordion>
-          <Accordion title="WHAT ARE THE WEIRDOS?">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+          <Accordion title="WHAT DOES THE YARN DO?">
+            Yarn nfts earn 2x $SCRATCH then regular Galacticats. holders will
+            recieve 1 GalacticatNFT Airdrop, and it will also act as a wl for
+            any future mints.Yarn holders will have there own alpha channel in
+            our discord, and will have more utility tba.
           </Accordion>
-          <Accordion title="WHAT IS THE FUSION PROCESS?">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-            veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem,
-            maxime, similique neque minus aliquam dolore doloremque laboriosam,
-            facilis quibusdam unde sint officia.
+          <Accordion title="WHAT ARE THE GALACTICATS?">
+            Galacticats are an orginization of 4444 cats on cardano
+            Decentralizing oppurtunity and building a sustainable ecosystem.
+            empowering people projects and brands to build.
           </Accordion>
         </Box>
       </Container>
