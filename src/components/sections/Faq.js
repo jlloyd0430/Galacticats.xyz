@@ -91,13 +91,14 @@ const Faq = () => {
       <Title>FAQ</Title>
       <Container>
         <Box>
-          <Accordion title="MINT PRICE?">.</Accordion>
-          yarn= 140 ADA , Galacticats = 100 ADA
-          <Accordion title="WHAT IS YARN DAO?"></Accordion>
-          YARN DAOs primary mission is to get $SCRATCH listed on exchanges and
-          create use cases for $SCRATCH balancing the supply and demand.
-          <Accordion title="WHEN MINT?"></Accordion>
-          the mint date is still TBD.
+          <Accordion title="MINT PRICE?">
+            yarn= 140 ADA , Galacticats = 100 ADA
+          </Accordion>
+          <Accordion title="WHAT IS YARN DAO?">
+            YARN DAOs primary mission is to get $SCRATCH listed on exchanges and
+            create use cases for $SCRATCH balancing the supply and demand.
+          </Accordion>
+          <Accordion title="WHEN MINT?">the mint date is still TBD.</Accordion>
         </Box>
         <Box>
           <Accordion title="What is $SCRATCH?">
