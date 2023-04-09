@@ -13,7 +13,7 @@ const Section = styled.section`
 
 const Title = styled.h1`
   font-size: ${(props) => props.theme.fontxxl};
-  text-transformation: capitalize;
+  text-transform: capitalize;
   color: ${(props) => props.theme.text};
   display: flex;
   justify-content: center;
@@ -220,12 +220,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Create Socials"
-            subtext="Our very first steps to establish ourselves will be to create a social media presence to gain some influence and build a Community."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Twitter-Spaces"
-            subtext="A main peice of the foundation of our project will be collaborating with other projects, solidifying those partnerships, and just getting to know the community and let you get to know us!"
+            subtext="Our very first steps to establish ourselves will be to create a social media presence to gain some influence. collaborate with projects, and build a Community."
           />
           <RoadMapItem
             addToRef={addToRefs}
@@ -256,11 +251,6 @@ const Roadmap = () => {
             addToRef={addToRefs}
             title="Mint 4444 Galacticats"
             subtext="Release 4444 Galacticats onto the Cardano blockchain."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="AirDrops"
-            subtext="more info tba."
           />
           <RoadMapItem
             addToRef={addToRefs}

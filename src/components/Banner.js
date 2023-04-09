@@ -44,7 +44,7 @@ const ImgContainer = styled.div`
   }
 
   @media (max-width: 48em) {
-    width: 10rem;
+    width: 100%;
     height: auto;
   }
 `;

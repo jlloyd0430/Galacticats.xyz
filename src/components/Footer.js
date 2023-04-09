@@ -134,13 +134,6 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="https://facebook.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Facebook />
-            </a>
-            <a
               href="https://instagram.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -148,7 +141,7 @@ const Footer = () => {
               <Instagram />
             </a>
             <a
-              href="https://twitter.com"
+              href="https://twitter.com/GalacticatsNFT"
               target="_blank"
               rel="noopener noreferrer"
             >
