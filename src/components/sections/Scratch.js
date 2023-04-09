@@ -52,9 +52,19 @@ const Scratch = ({
       <Description>
         <Title>{title}</Title>
         <Text>{description}</Text>
-        <StyledButton onClick={buttonOnClick} href={buttonLink}>
-          {buttonText}
-        </StyledButton>
+        <a
+          href="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <StyledButton
+            text="View ScratchPaper"
+            onClick={buttonOnClick}
+            href={buttonLink}
+          >
+            {buttonText}
+          </StyledButton>
+        </a>
       </Description>
     </Container>
   );

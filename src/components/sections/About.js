@@ -165,10 +165,13 @@ const About = () => {
           </SubTextLight>
           <ButtonContainer>
             <ThemeProvider theme={dark}>
-              <Button
-                text="JOIN OUR DISCORD"
-                link="https://discord.gg/euqK7tjmkj"
-              />
+              <a
+                href="https://discord.gg/gxERuKmCDA"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button text="JOIN OUR DISCORD" />
+              </a>
             </ThemeProvider>
           </ButtonContainer>
         </Box>
