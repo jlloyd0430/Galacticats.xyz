@@ -28,7 +28,7 @@ const Section = styled.section`
   background-color: ${(props) => props.theme.body};
   position: relative;
   padding-top: 10vh; // Add this line to set padding-top equal to the section's height
-  padding-bottom: 25vh; // Add this line to set padding-top equal to the section's height
+  padding-bottom: 10vh; // Add this line to set padding-top equal to the section's height
 `;
 
 const Title = styled.h1`
