@@ -47,7 +47,7 @@ const Scratch = ({
   buttonLink,
 }) => {
   return (
-    <Container>
+    <Container id="scratch">
       <Image src={imgSrc} alt="Example image" />
       <Description>
         <Title>{title}</Title>

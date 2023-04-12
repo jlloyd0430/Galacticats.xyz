@@ -4,11 +4,31 @@ import React, { useLayoutEffect, useRef } from "react";
 import styled from "styled-components";
 import DrawSvg from "../DrawSvg";
 
+const Container = styled.div`
+  width: 70%;
+  height: 200vh;
+  background-color: ${(props) => props.theme.body};
+  margin: 50vh auto 0; // Add margin-top to push down the entire section
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+  @media (max-width: 64em) {
+    width: 80%;
+  }
+  @media (max-width: 48em) {
+    width: 90%;
+  }
+`;
+
 const Section = styled.section`
   min-height: 100vh;
   width: 100vw;
   background-color: ${(props) => props.theme.body};
   position: relative;
+  padding-top: 10vh; // Add this line to set padding-top equal to the section's height
+  padding-bottom: 25vh; // Add this line to set padding-top equal to the section's height
 `;
 
 const Title = styled.h1`
@@ -24,24 +44,6 @@ const Title = styled.h1`
 
   @media (max-width: 40em) {
     font-size: ${(props) => props.theme.fontxl};
-  }
-`;
-
-const Container = styled.div`
-  width: 70%;
-  height: 200vh;
-  background-color: ${(props) => props.theme.body};
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-
-  @media (max-width: 64em) {
-    width: 80%;
-  }
-  @media (max-width: 48em) {
-    width: 90%;
   }
 `;
 

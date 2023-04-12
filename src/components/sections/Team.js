@@ -17,6 +17,18 @@ const Section = styled.section`
   position: relative;
 `;
 
+const StyledConfettiComponent = styled(ConfettiComponent)`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  @media (max-width: 1025px) and (min-width: 769px) {
+    transform: scale(0.8);
+  }
+`;
+
 const Title = styled.h1`
   font-size: ${(props) => props.theme.fontxxl};
   text-transformation: capitalize;
@@ -34,9 +46,7 @@ const Title = styled.h1`
 `;
 
 const Container = styled.div`
-  width: 75%;
-  margin: 2rem auto;
-
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -47,6 +57,10 @@ const Container = styled.div`
   }
   @media (max-width: 48em) {
     width: 90%;
+    justify-content: center;
+  }
+
+  @media (max-width: 1024px) and (min-width: 725px) {
     justify-content: center;
   }
 `;
@@ -72,6 +86,14 @@ const Item = styled.div`
 
   @media (max-width: 30em) {
     width: 70vw;
+  }
+  @media (max-width: 48em) {
+    width: 90%;
+    justify-content: center;
+  }
+
+  @media (max-width: 1024px) and (min-width: 725px) {
+    justify-content: center;
   }
 `;
 
@@ -127,7 +149,7 @@ const MemberComponent = ({ img, name = " ", position = " " }) => {
 const Team = () => {
   return (
     <Section id="team">
-      <ConfettiComponent />
+      <StyledConfettiComponent />
       <Title>Team</Title>
       <Container>
         <MemberComponent
