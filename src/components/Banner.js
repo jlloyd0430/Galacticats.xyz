@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-// import Button from "./Button";
+import Button from "./Button";
 
 import img1 from "../assets/Gcimages/banner.jpeg";
 
@@ -139,7 +139,14 @@ const Banner = () => {
         Join <br /> Galactica
       </Title>
       <BtnContainer>
-        <JoinNow>join now</JoinNow>
+        <a
+          href="https://discord.gg/gxERuKmCDA"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Button text="JOIN US" />
+        </a>
+        {/* <JoinNow>join now</JoinNow> */}
       </BtnContainer>
     </Section>
   );
