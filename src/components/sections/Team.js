@@ -46,7 +46,8 @@ const Title = styled.h1`
 `;
 
 const Container = styled.div`
-  width: 100%;
+  width: 75%;
+  margin: 2rem auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
