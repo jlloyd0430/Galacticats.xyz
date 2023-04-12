@@ -5,6 +5,8 @@ import img1 from "../../assets/Gcimages/me.JPG";
 import img2 from "../../assets/Gcimages/setsuko.JPG";
 import img3 from "../../assets/Gcimages/haidar.JPG";
 import img4 from "../../assets/Gcimages/yepple.JPG";
+import img5 from "../../assets/Gcimages/duty.JPG";
+import img6 from "../../assets/Gcimages/15.png";
 
 import ConfettiComponent from "../Confetti";
 
@@ -139,11 +141,25 @@ const Team = () => {
           name="Haidar"
           position="Co-Founder/Artist"
         />
-        <MemberComponent img={img2} name="Setsuko" position="Advisor" />
         <MemberComponent
           img={img4}
           name="Yepple"
           position="Blockchain Dev Team"
+        />
+        <MemberComponent
+          img={img5}
+          name="Duty"
+          position="Community Moderator"
+        />
+        <MemberComponent
+          img={img2}
+          name="ken007"
+          position="Community Moderator"
+        />
+        <MemberComponent
+          img={img6}
+          name="happy"
+          position="Community Moderator"
         />
       </Container>
     </Section>

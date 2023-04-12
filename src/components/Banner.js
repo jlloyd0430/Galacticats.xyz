@@ -27,7 +27,7 @@ const Section = styled.section`
 `;
 
 const ImgContainer = styled.div`
-  width: 100%;
+  width: 85%;
   position: absolute;
   top: 50%;
   left: 50%;
