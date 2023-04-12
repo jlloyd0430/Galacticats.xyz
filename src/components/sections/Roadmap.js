@@ -38,7 +38,7 @@ const Title = styled.h1`
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 1rem auto;
+  margin: .5rem auto;
   border-bottom: 2px solid ${(props) => props.theme.text};
   width: fit-content;
 
