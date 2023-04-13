@@ -3,10 +3,9 @@ import styled from "styled-components";
 import Banner from "./Banner";
 import Logo from "./Logo";
 
-// import Facebook from "../Icons/Facebook";
-import Instagram from "../Icons/Instagram";
+import Discord from "../Icons/Discord.js";
 import Twitter from "../Icons/Twitter";
-import LinkedIn from "../Icons/LinkedIn";
+// import Meme from "../Icons/Meme";
 
 const Section = styled.section`
   min-height: 100vh;
@@ -134,11 +133,11 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="https://instagram.com"
+              href="https://discord.gg/gxERuKmCDA"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Instagram />
+              <Discord />
             </a>
             <a
               href="https://twitter.com/GalacticatsNFT"
@@ -147,20 +146,20 @@ const Footer = () => {
             >
               <Twitter />
             </a>
-            <a
+            {/* <a
               href="https://linkedin.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <LinkedIn />
-            </a>
+              <Meme />
+            </a> */}
           </IconList>
         </Left>
         <MenuItems>
           <Item onClick={() => scrollTo("home")}>Home</Item>
           <Item onClick={() => scrollTo("about")}>About</Item>
           <Item onClick={() => scrollTo("roadmap")}>Roadmap</Item>
-          <Item onClick={() => scrollTo("scratch")}>$Scratch</Item>
+          <Item onClick={() => scrollTo("scratch")}>Showcase</Item>
           <Item onClick={() => scrollTo("team")}>Team</Item>
           <Item onClick={() => scrollTo("faq")}>Faq</Item>
         </MenuItems>
