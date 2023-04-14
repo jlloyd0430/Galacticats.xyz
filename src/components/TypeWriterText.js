@@ -105,9 +105,21 @@ const TypeWriterText = () => {
         Bring Value to Holders
       </SubTitle>
       <ButtonContainer>
-        <Button text="Explore" link="#about" />
+   <a
+          href="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Button
+            text="View ScratchPaper"
+            onClick={buttonOnClick}
+            href={buttonLink}
+          >
+            {buttonText}
+        </a>   
+
       </ButtonContainer>
-    </>
+</>
   );
 };
 
