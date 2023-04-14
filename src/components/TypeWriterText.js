@@ -106,12 +106,12 @@ const TypeWriterText = () => {
       </SubTitle>
       <ButtonContainer>
    <a
-          href="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
+          href="https://galacticlinks.onrender.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Button
-            text="View ScratchPaper"
+            text="Explore"
             onClick={buttonOnClick}
             href={buttonLink}
           >
