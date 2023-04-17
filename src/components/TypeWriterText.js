@@ -115,7 +115,7 @@ const TypeWriterText = () => {
             onClick={buttonOnClick}
             href="https://galacticlinks.onrender.com"
           >
-            {buttonText}
+          </Button>
         </a>   
 
       </ButtonContainer>
