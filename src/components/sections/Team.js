@@ -179,7 +179,6 @@ const Team = () => {
           name="happy"
           position="Community Moderator"
         />
-        <Title>Partners</Title>
            <MemberComponent
           img={img4}
           name="Yepple"
