@@ -7,6 +7,7 @@ import img3 from "../../assets/Gcimages/haidar.JPG";
 import img4 from "../../assets/Gcimages/yepple.JPG";
 import img5 from "../../assets/Gcimages/duty.JPG";
 import img6 from "../../assets/Gcimages/15.png";
+import img7 from "../../assets/Gcimages/zeitaku.JPG";
 
 import ConfettiComponent from "../Confetti";
 
@@ -179,10 +180,15 @@ const Team = () => {
           name="happy"
           position="Community Moderator"
         />
+            <h2>Partners</h2>
            <MemberComponent
           img={img4}
           name="Yepple"
-          position="Blockchain Dev Team"
+        />
+            
+           <MemberComponent
+          img={img7}
+          name="Zeitaku Dragons"
         />
       </Container>
     </Section>
