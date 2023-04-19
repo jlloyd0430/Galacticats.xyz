@@ -175,8 +175,8 @@ const Team = () => {
           name="happy"
           position="Community Moderator"
         />
-            <h2>Partners</h2>
-           <MemberComponent
+              <h2 style={{ margin: 0 }}>Partners</h2>
+        <MemberComponent
           img={img4}
           name="Yepple"
         />
