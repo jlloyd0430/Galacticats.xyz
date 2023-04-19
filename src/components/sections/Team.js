@@ -176,7 +176,7 @@ const Team = () => {
           position="Community Moderator"
         />
             <div>
-              <h2 style={{ margin: 0 }}>Partners</h2>
+              <Title style={{ margin: 0 }}>Partners</Title>
             </div>
         <MemberComponent
           img={img4}
