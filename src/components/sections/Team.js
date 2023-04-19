@@ -50,7 +50,7 @@ const Container = styled.div`
   width: 75%;
   margin: 2rem auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 
@@ -59,11 +59,6 @@ const Container = styled.div`
   }
   @media (max-width: 48em) {
     width: 90%;
-    justify-content: center;
-  }
-
-  @media (max-width: 1024px) and (min-width: 725px) {
-    justify-content: center;
   }
 `;
 
