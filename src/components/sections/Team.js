@@ -162,19 +162,9 @@ const Team = () => {
           position="Co-Founder/Artist"
         />
         <MemberComponent
-          img={img5}
-          name="Duty"
-          position="Community Moderator"
-        />
-        <MemberComponent
           img={img2}
-          name="ken007"
-          position="Community Moderator"
-        />
-        <MemberComponent
-          img={img6}
-          name="happy"
-          position="Community Moderator"
+          name="Aedan"
+          position="Community Manager"
         />
             <div>
               <Title style={{ margin: 0 }}>Partners</Title>
@@ -195,6 +185,7 @@ const Team = () => {
           name="Smurfy"
            position="Marketing and Strategist"
         />
+     
       </Container>
     </Section>
   );
