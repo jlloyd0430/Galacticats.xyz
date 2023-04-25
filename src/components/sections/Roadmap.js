@@ -221,13 +221,8 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Create Socials"
-            subtext="Our very first steps to establish ourselves will be to create a social media presence to gain some influence. collaborate with projects, and build a Community."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
             title="$Scratchpaper release"
-            subtext="The release of the $Scratchpaper will reveal alot of our mechanics and tokenomics for $SCRATCH aswell as explain use cases."
+            subtext="The release of the $Scratchpaper will reveal alot of our mechanics and tokenomics for $SCRATCH."
           />
           <RoadMapItem
             addToRef={addToRefs}
@@ -239,25 +234,15 @@ const Roadmap = () => {
             title="Yarn Sale"
             subtext="444 3d balls of Yarn. Mint details tba."
           />
-          <RoadMapItem
+            <RoadMapItem
             addToRef={addToRefs}
-            title="The DAO"
-            subtext="Once we mint the Yarn collection we will be able to enable a dao mechanism for on chain voting and officially create the YARN DAO."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Staking Live"
-            subtext="Staking will go live after Mint!."
+            title="1st Venture"
+            subtext="Our first venture will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill.Flipping the Narrative.Bringing more oppurtunity to people in the ecosystem before we go for any type of outside adoption."
           />
           <RoadMapItem
             addToRef={addToRefs}
             title="Mint 4444 Galacticats"
             subtext="Release 4444 Galacticats onto the Cardano blockchain."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="1st Venture"
-            subtext="Our first venture will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill.Flipping the Narrative.Bringing more oppurtunity to people in the ecosystem before we go for any type of outside adoption."
           />
         </Items>
       </Container>
