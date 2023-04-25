@@ -92,29 +92,16 @@ const Faq = () => {
       <Container>
         <Box>
           <Accordion title="MINT PRICE?">
-            yarn= 140 ADA , Galacticats = 100 ADA
+            TBA
           </Accordion>
-          <Accordion title="WHAT IS YARN DAO?">
-            YARN DAOs primary mission is to get $SCRATCH listed on exchanges and
-            create use cases for $SCRATCH balancing the supply and demand.
-          </Accordion>
-          <Accordion title="WHEN MINT?">the mint date is still TBD.</Accordion>
+          <Accordion title="WHEN MINT?">We will roll out our mint in batches as we get more adoption.</Accordion>
         </Box>
         <Box>
-          <Accordion title="What is $SCRATCH?">
-            $SCRATCH is the main utility token for powering the Galactic
-            ecosystem. governed by the YARN DAO.
-          </Accordion>
           <Accordion title="WHAT DOES THE YARN DO?">
-            Yarn nfts earn 2x $SCRATCH then regular Galacticats. holders will
-            recieve 1 GalacticatNFT Airdrop, and it will also act as a wl for
-            any future mints.Yarn holders will have there own alpha channel in
-            our discord, and will have more utility tba.
+          our Yarn collection is a premint/ Alpha pass into the Galactic ecosystem for the early supporters of our brand.The Yarn NFTs will grant holders a 1/1 Galacticat airdrop and wl to any future mints, More info tba
           </Accordion>
           <Accordion title="WHAT ARE THE GALACTICATS?">
-            Galacticats are an orginization of 4444 cats on cardano
-            Decentralizing oppurtunity and building a sustainable ecosystem.
-            empowering people projects and brands to build.
+            Galacticats are an orginization of 4444 cats building out multiple web3 buisnesses owned by the Galactic brand that support and bring value to our ecosystem and holders.
           </Accordion>
         </Box>
       </Container>
