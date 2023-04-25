@@ -153,12 +153,12 @@ const About = () => {
           </Title>
           <SubText>
             Galacticats are a collection of 4444 unique digital collectibles.
-            spreding across the cardano blockchain.We are more then just an NFT
-            project, we are an orginization of cats building a sustainable
-            ecosystem from $SCRATCH
+            spreding across web3. We are more then just an NFT
+            project, we are an orginization building a series of buisness platforms to help sustain
+            our brand and bring value to our holders and the overall web3 space
           </SubText>
           <SubTextLight>
-            With more than 250+ hand drawn traits, each cat is unique. We strive
+            We strive
             to build a community of likeminded individuals and entrepenuers Join
             an ambitious ever-growing community with multiple benefits and
             utilities.
