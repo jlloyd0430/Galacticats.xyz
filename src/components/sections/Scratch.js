@@ -53,7 +53,7 @@ const Scratch = ({
         <Title>{title}</Title>
         <Text>{description}</Text>
         <a
-          href="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
+          href=" "
           target="_blank"
           rel="noopener noreferrer"
         >
