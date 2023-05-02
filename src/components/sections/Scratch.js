@@ -58,7 +58,7 @@ const Scratch = ({
           rel="noopener noreferrer"
         >
           <StyledButton
-            text="View ScratchPaper"
+            text="Find out more"
             onClick={buttonOnClick}
             href={buttonLink}
           >
