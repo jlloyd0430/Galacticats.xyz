@@ -22,9 +22,8 @@ function App() {
         <About />
         <Roadmap />
         <Scratch
-          title="$SCRATCH Token"
-          description="$SCRATCH is the utility token for the Galacticats ecosystem"
-          buttonText="View ScratchPaper "
+          title="Yarn.Solutions"
+          description="Yarn.solutions is a decentralized freelance marketplace aimed to connect and empower the people, projects, and brands of Web3."
           buttonOnClick={() => alert("Button clicked!")}
           buttonLink="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
         />
