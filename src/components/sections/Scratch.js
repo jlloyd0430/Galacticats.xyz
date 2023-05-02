@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Button from "../Button";
 
-import imgSrc from "../../assets/Gcimages/scratch.JPG";
+import imgSrc from "../../assets/Gcimages/showcase2.JPG";
 
 const Container = styled.div`
   display: flex;
