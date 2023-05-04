@@ -4,7 +4,7 @@ import styled from "styled-components";
 import Button from "./Button";
 
 const Title = styled.h2`
-  font-family: 'Righteous', cursive;  font-size: ${(props) => props.theme.fontxxl};
+  font-family: 'Righteous', cursive;
   text-transformation: capitalize;
   width: 80%;
   color: ${(props) => props.theme.text};
