@@ -3,8 +3,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const LogoText = styled.h2`
-  font-family: "Akaya Telivigala", cursive;
-  font-size: ${(props) => props.theme.fontxxxl};
+  font-family; 'Righteous', cursive;
   color: ${(props) => props.theme.text};
   transition: all 0.2s ease;
 
