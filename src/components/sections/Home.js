@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import TypeWriterText from "../TypeWriterText";
-import yarnImage from "../../assets/Gcimages/yarn.JPG";
+import yarnImage from "../../assets/Gcimages/greenyarn.JPG";
 
 const Section = styled.section`
   min-height: ${(props) => `calc(100vh - ${props.theme.navHeight})`};
