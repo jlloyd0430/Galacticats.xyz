@@ -4,7 +4,7 @@ import styled from "styled-components";
 import img1 from "../../assets/Gcimages/me.JPG";
 import img2 from "../../assets/Gcimages/setsuko.JPG";
 import img3 from "../../assets/Gcimages/haidar.JPG";
-import img4 from "../../assets/Gcimages/yepple.JPG";
+import img4 from "../../assets/Gcimages/wildtangz.JPG";
 import img5 from "../../assets/Gcimages/duty.JPG";
 import img6 from "../../assets/Gcimages/15.png";
 import img7 from "../../assets/Gcimages/zeitaku.JPG";
