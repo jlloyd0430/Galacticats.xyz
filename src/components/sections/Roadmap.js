@@ -221,8 +221,8 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="$Scratchpaper release"
-            subtext="The release of the $Scratchpaper will reveal alot of our mechanics and tokenomics for $SCRATCH."
+            title="Yarn Landing page"
+            subtext="The release of the Landing page will reveal the features and services we offer at yarn.solutions."
           />
           <RoadMapItem
             addToRef={addToRefs}
