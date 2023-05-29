@@ -212,7 +212,7 @@ const Roadmap = () => {
 
   return (
     <Section id="roadmap">
-      <Title>Roadmap</Title>
+      <Title>Q3 Roadmap</Title>
       <Container>
         <SvgContainer>
           <DrawSvg />
@@ -249,11 +249,7 @@ const Roadmap = () => {
             title="Mint 4444 Galacticats"
             subtext="Release 4444 Galacticats onto the Cardano blockchain."
           />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Phase 2"
-            subtext="in Phase 2 of our roadmap we will reveal our plans for our second buisness platform."
-          />
+       
         </Items>
       </Container>
     </Section>
