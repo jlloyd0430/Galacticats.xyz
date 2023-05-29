@@ -171,7 +171,7 @@ const Team = () => {
             </div>
         <MemberComponent
           img={img4}
-          name="Yepple"
+          name="Wild Tangz"
            position="Blockchain Development"
         />
             
