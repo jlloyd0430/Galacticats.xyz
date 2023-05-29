@@ -229,15 +229,15 @@ const Roadmap = () => {
             title="Launch Website"
             subtext="The website will be subject to change or edititng."
           />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Yarn Sale"
-            subtext="444 3d balls of Yarn. Mint details tba."
-          />
-            <RoadMapItem
+         <RoadMapItem
             addToRef={addToRefs}
             title="1st Venture"
             subtext="Our first venture will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Yarn Sale"
+            subtext="444 balls of Galactic Yarn. Mint details tba."
           />
           <RoadMapItem
             addToRef={addToRefs}
