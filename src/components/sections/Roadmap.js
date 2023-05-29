@@ -221,17 +221,17 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Yarn Landing page"
-            subtext="The release of the Landing page will reveal the features and services we offer at yarn.solutions."
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
             title="Launch Website"
             subtext="The website will be subject to change or edititng."
           />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Yarn Landing page"
+            subtext="The release of the Landing page will reveal the features and services we offer at yarn.solutions."
+          />
          <RoadMapItem
             addToRef={addToRefs}
-            title="1st Venture"
+            title="Freelance Marketplace"
             subtext="Our first venture will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
           />
           <RoadMapItem
@@ -241,8 +241,18 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
+            title="Upgrades"
+            subtext="upgrading and stress testing our platform integrating discord bots,cross chain integrations and much more."
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
             title="Mint 4444 Galacticats"
             subtext="Release 4444 Galacticats onto the Cardano blockchain."
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Phase 2"
+            subtext="in Phase 2 of our roadmap we will reveal our plans for our second buisness platform."
           />
         </Items>
       </Container>
