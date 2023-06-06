@@ -60,7 +60,7 @@ const Scratch = ({
           <StyledButton
             text="coming soon"
             onClick={buttonOnClick}
-            href={buttonLink}
+            href="https://app-yarn-solutions.onrender.com/#team"
           >
             {buttonText}
           </StyledButton>
