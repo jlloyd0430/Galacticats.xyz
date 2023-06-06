@@ -53,12 +53,12 @@ const Scratch = ({
         <Title>{title}</Title>
         <Text>{description}</Text>
         <a
-          href=" "
+          href="https://app-yarn-solutions.onrender.com/#team"
           target="_blank"
           rel="noopener noreferrer"
         >
           <StyledButton
-            text="coming soon"
+            text="explore"
             onClick={buttonOnClick}
             href="https://app-yarn-solutions.onrender.com/#team"
           >
