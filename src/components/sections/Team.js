@@ -159,7 +159,7 @@ const Team = () => {
         <MemberComponent
           img={img3}
           name="Atlas Social Media"
-          position="Co-Founder/Artist"
+          position="Artist"
         />
         <MemberComponent
           img={img2}
