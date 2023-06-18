@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import img1 from "../../assets/Gcimages/me.JPG";
 import img2 from "../../assets/Gcimages/setsuko.JPG";
-import img3 from "../../assets/Gcimages/haidar.JPG";
+import img3 from "../../assets/Gcimages/atlasmedia.JPG";
 import img4 from "../../assets/Gcimages/wildtangz.JPG";
 import img5 from "../../assets/Gcimages/duty.JPG";
 import img6 from "../../assets/Gcimages/15.png";
@@ -158,7 +158,7 @@ const Team = () => {
 
         <MemberComponent
           img={img3}
-          name="Haidar"
+          name="Atlas Social Media"
           position="Co-Founder/Artist"
         />
         <MemberComponent
