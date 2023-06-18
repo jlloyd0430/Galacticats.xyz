@@ -183,7 +183,7 @@ const Team = () => {
              <MemberComponent
           img={img8}
           name="Smurfy"
-           position="Marketing and Strategist"
+          position="advisor"
         />
      
       </Container>
