@@ -232,7 +232,7 @@ const Roadmap = () => {
          <RoadMapItem
             addToRef={addToRefs}
             title="Freelance Marketplace"
-            subtext="Our first venture will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
+            subtext="Our first buisness platform will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
           />
           <RoadMapItem
             addToRef={addToRefs}
