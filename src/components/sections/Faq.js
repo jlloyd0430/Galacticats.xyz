@@ -92,9 +92,9 @@ const Faq = () => {
       <Container>
         <Box>
           <Accordion title="MINT PRICE?">
-            TBA
+            165Ada
           </Accordion>
-          <Accordion title="WHEN MINT?">We will roll out our mint in batches as we get more adoption.</Accordion>
+          <Accordion title="WHEN MINT?">Yarn Mint-6/30. Galacticats mint-tba</Accordion>
         </Box>
         <Box>
           <Accordion title="WHAT DOES THE YARN DO?">
