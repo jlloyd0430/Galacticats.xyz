@@ -162,6 +162,11 @@ const Team = () => {
           position="lead Artist"
         />
         <MemberComponent
+          img={img8}
+          name="Jacob Little"
+          position="Marketing/Social Media"
+        />
+        <MemberComponent
           img={img2}
           name="Aedan"
           position="Community Manager"
@@ -179,11 +184,6 @@ const Team = () => {
           img={img7}
           name="Zeitaku Dragons"
            position="Trading bot"
-        />
-             <MemberComponent
-          img={img8}
-          name="Jacob Little"
-          position="Marketing/Social Media"
         />
      
       </Container>
