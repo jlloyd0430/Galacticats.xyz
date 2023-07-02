@@ -232,7 +232,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Yarn Sale"
-            subtext="444 balls of Galactic Yarn. our yarn collection grants holders wl and a 1:1 airdrop of a Galacticat NFT, with more exclusive and added utilty tba."
+            subtext="444 balls of Galactic Yarn. our yarn collection is comprised of our early supporters it grants holders wl and a 1:1 airdrop of a Galacticat NFT, with more exclusive and added utilty tba."
           />
            <RoadMapItem
             addToRef={addToRefs}
