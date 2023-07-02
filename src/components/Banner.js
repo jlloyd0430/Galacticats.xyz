@@ -140,11 +140,11 @@ const Banner = () => {
       </Title>
       <BtnContainer>
         <a
-          href="https://discord.gg/gxERuKmCDA"
+          href="https://www.mint.galacticats.xyz/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Button text="JOIN US" />
+          <Button text="Mint Here" />
         </a>
         {/* <JoinNow>join now</JoinNow> */}
       </BtnContainer>
