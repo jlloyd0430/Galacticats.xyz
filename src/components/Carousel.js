@@ -129,6 +129,7 @@ const Carousel = () => {
         <SwiperSlide>
           <img src={img1} alt="The Weirdos" />
         </SwiperSlide>
+          </Swiper>
     </Container>
   );
 };
