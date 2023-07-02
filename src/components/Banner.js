@@ -136,7 +136,7 @@ const Banner = () => {
         <img src={img1} alt="Galacticats" />
       </ImgContainer>
       <Title>
-        Join <br /> Galactica
+        Join <br /> Galacticats
       </Title>
       <BtnContainer>
         <a
