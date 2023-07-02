@@ -10,16 +10,8 @@ import "swiper/css/navigation";
 
 import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
 
-import img1 from "../assets/Gcimages/1.png";
-import img2 from "../assets/Gcimages/2.png";
-import img3 from "../assets/Gcimages/3.png";
-import img4 from "../assets/Gcimages/4.png";
-import img5 from "../assets/Gcimages/5.png";
-import img6 from "../assets/Gcimages/6.png";
-import img7 from "../assets/Gcimages/7.png";
-import img8 from "../assets/Gcimages/8.png";
-import img9 from "../assets/Gcimages/9.png";
-import img10 from "../assets/Gcimages/10.png";
+import img1 from "../assets/Gcimages/galacticatv2.JPG";
+
 
 import Arrow from "../assets/Arrow.svg";
 
@@ -137,34 +129,6 @@ const Carousel = () => {
         <SwiperSlide>
           <img src={img1} alt="The Weirdos" />
         </SwiperSlide>
-        <SwiperSlide>
-          <img src={img2} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img3} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img4} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img5} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img6} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img7} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img8} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img9} alt="The Weirdos" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img10} alt="The Weirdos" />
-        </SwiperSlide>
-      </Swiper>
     </Container>
   );
 };
