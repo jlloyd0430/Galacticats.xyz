@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import Button from "./Button";
 
-import img1 from "../assets/Gcimages/banner.jpeg";
+import img1 from "../assets/Gcimages/yarnnft.JPG";
 
 const Section = styled.section`
   width: 100vw;
