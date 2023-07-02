@@ -229,15 +229,15 @@ const Roadmap = () => {
             title="Yarn Landing page"
             subtext="The release of the Landing page will reveal the features and services we offer at yarn.solutions."
           />
-         <RoadMapItem
-            addToRef={addToRefs}
-            title="Freelance Marketplace"
-            subtext="Our first buisness platform will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
-          />
           <RoadMapItem
             addToRef={addToRefs}
             title="Yarn Sale"
             subtext="444 balls of Galactic Yarn. our yarn collection grants holders wl and a 1:1 airdrop of a Galacticat NFT, with more exclusive and added utilty tba."
+          />
+           <RoadMapItem
+            addToRef={addToRefs}
+            title="Freelance Marketplace"
+            subtext="Our first buisness platform will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
           />
           <RoadMapItem
             addToRef={addToRefs}
