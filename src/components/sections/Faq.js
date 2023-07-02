@@ -94,7 +94,7 @@ const Faq = () => {
           <Accordion title="MINT PRICE?">
             165Ada
           </Accordion>
-          <Accordion title="WHEN MINT?">Yarn Mint-6/30. Galacticats mint-tba</Accordion>
+          <Accordion title="WHEN MINT?">Yarn Mint is Live <a>https://www.mint.galacticats.xyz/</a> </Accordion>
         </Box>
         <Box>
           <Accordion title="WHAT DOES THE YARN DO?">
