@@ -155,11 +155,7 @@ const About = () => {
             Galacticats are a collection of 4444 unique digital collectibles, spreading across web3. We are more then just an NFT project, we're an organization building a series of business platforms to help sustain our brand whilst bringing value to our holders and the overall web3 space.
           </SubText>
           <SubTextLight>
-            We strive
-            to build a community of likeminded individuals and entrepenuers Join
-            an ambitious ever-growing community with multiple benefits and
-            utilities.
-          </SubTextLight>
+            We strive to build a community of likeminded individuals and entrepreneurs. Join our ambitious, ever-growing community and receive multiple benefits and utilities for being an investor.          </SubTextLight>
           <ButtonContainer>
             <ThemeProvider theme={dark}>
               <a
