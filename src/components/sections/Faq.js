@@ -98,11 +98,10 @@ const Faq = () => {
         </Box>
         <Box>
           <Accordion title="WHAT DOES THE YARN DO?">
-          our Yarn collection is a premint/ Alpha pass into the Galactic ecosystem for the early supporters of our brand.The Yarn NFTs will grant holders a 1/1 Galacticat airdrop and wl to any future mints, More info tba
+          Our Yarn collection is a premint/ Alpha pass into the Galactic ecosystem for the early supporters of our brand.The Yarn NFTs will grant holders a 1/1 Galacticat airdrop and wl to any future mints, More info tba
           </Accordion>
           <Accordion title="WHAT ARE THE GALACTICATS?">
-            Galacticats are an orginization of 4444 cats building out multiple web3 buisnesses owned by the Galactic brand that support and bring value to our ecosystem and holders.
-          </Accordion>
+            Galacticats are an organization of 4444 cats, building out multiple web3 businesses owned by the Galactic brand. It will add support and bring value to both our ecosystem and our holders.          </Accordion>
         </Box>
       </Container>
     </Section>
