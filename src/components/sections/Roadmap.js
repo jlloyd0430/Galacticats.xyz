@@ -222,7 +222,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Launch Website"
-            subtext="The website will be subject to change or edititng."
+            subtext="This website is subject to change."
           />
           <RoadMapItem
             addToRef={addToRefs}
@@ -232,17 +232,17 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Yarn Sale"
-            subtext="444 balls of Galactic Yarn. our yarn collection is comprised of our early supporters it grants holders wl and a 1:1 airdrop of a Galacticat NFT, with more exclusive and added utilty tba."
+            subtext="444 Balls of Galactic Yarn. Our Yarn collection is comprised of our earliest supporters. It grants holders a WL spot, as well as a 1:1 Airdrop of a Galacticat NFT, with more exclusive and added utilty still TBA."
           />
            <RoadMapItem
             addToRef={addToRefs}
             title="Freelance Marketplace"
-            subtext="Our first buisness platform will be devloping a freelance hub for creators, devlopers, artist, influencers or anybody who is looking for services from people within the ecosystem with some experience and skill."
+            subtext="Our first business platform will be to develop a Freelance Hub For creators, developers, artists, Influencers and anybody else looking for services from individuals within the ecosystem that have the requisite experience."
           />
           <RoadMapItem
             addToRef={addToRefs}
             title="Upgrades"
-            subtext="upgrading and stress testing our platform integrating discord bots,cross chain integrations and much more."
+            subtext="Upgrading and stress testing our platform, integrating Discord bots, cross-chain integrations and much more."
           />
           <RoadMapItem
             addToRef={addToRefs}
