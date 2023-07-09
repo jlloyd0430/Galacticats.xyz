@@ -152,10 +152,7 @@ const About = () => {
             Welcome To <br /> Galactica.
           </Title>
           <SubText>
-            Galacticats are a collection of 4444 unique digital collectibles.
-            spreding across web3. We are more then just an NFT
-            project, we are an orginization building a series of buisness platforms to help sustain
-            our brand and bring value to our holders and the overall web3 space
+            Galacticats are a collection of 4444 unique digital collectibles, spreading across web3. We are more then just an NFT project, we're an organization building a series of business platforms to help sustain our brand whilst bringing value to our holders and the overall web3 space.
           </SubText>
           <SubTextLight>
             We strive
