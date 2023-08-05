@@ -8,7 +8,7 @@ import img4 from "../../assets/Gcimages/wildtangz.JPG";
 import img5 from "../../assets/Gcimages/duty.JPG";
 import img6 from "../../assets/Gcimages/15.png";
 import img7 from "../../assets/Gcimages/zeitaku.JPG";
-import img8 from "../../assets/Gcimages/jacob.JPG";
+
 
 import ConfettiComponent from "../Confetti";
 
@@ -155,21 +155,15 @@ const Team = () => {
           name="Sonofabitcoin"
           position="Founder/Developer"
         />
-
+     <MemberComponent
+          img={img2}
+          name="Aedan"
+          position="Co-Founder/CM"
+        />
         <MemberComponent
           img={img3}
           name="Atlas Social Media"
           position="lead Artist"
-        />
-        <MemberComponent
-          img={img8}
-          name="Jacob Little"
-          position="Marketing/Social Media"
-        />
-        <MemberComponent
-          img={img2}
-          name="Aedan"
-          position="Community Manager"
         />
             <div>
               <Title style={{ margin: 0 }}>Partners</Title>
