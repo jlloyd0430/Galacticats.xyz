@@ -174,11 +174,6 @@ const Team = () => {
            position="Powerd by Wild Tangz"
         />
             
-           <MemberComponent
-          img={img7}
-          name="Zeitaku Dragons"
-           position="Trading bot"
-        />
      
       </Container>
     </Section>
