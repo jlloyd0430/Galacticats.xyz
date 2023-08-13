@@ -23,7 +23,7 @@ function App() {
         <Roadmap />
         <Yarn
           title="Yarn.Solutions"
-          description="Yarn.solutions is a decentralized freelance marketplace aimed to connect and empower the people, projects, and brands of Web3."
+          description="Yarn.solutions is a remote freelance marketplace aimed to connect and empower the people, projects, and brands of Web3."
           buttonOnClick={() => alert("Button clicked!")}
           buttonLink="https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/"
         />
