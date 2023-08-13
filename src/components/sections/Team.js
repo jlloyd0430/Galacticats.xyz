@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import img1 from "../../assets/Gcimages/me.JPG";
-import img2 from "../../assets/Gcimages/setsuko.JPG";
+import img2 from "../../assets/Gcimages/Aedan.JPG";
 import img3 from "../../assets/Gcimages/atlasmedia.JPG";
 import img4 from "../../assets/Gcimages/wildtangz.JPG";
 import img5 from "../../assets/Gcimages/duty.JPG";
