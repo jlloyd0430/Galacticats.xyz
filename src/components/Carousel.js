@@ -131,12 +131,24 @@ const Carousel = () => {
       >
         <SwiperSlide>
           <img src={img1} alt="Galacticat" />
-          <img src={img2} alt="Galacticat" />
-          <img src={img3} alt="Galacticat" />
-          <img src={img4} alt="Galacticat" />
-          <img src={img5} alt="Galacticat" />
-          
           </SwiperSlide>
+          
+          <SwiperSlide>
+          <img src={img2} alt="Galacticat" />
+          </SwiperSlide>
+          
+          <SwiperSlide>
+          <img src={img3} alt="Galacticat" />
+          </SwiperSlide>
+          
+          <SwiperSlide>
+          <img src={img4} alt="Galacticat" />
+          </SwiperSlide>
+          
+          <SwiperSlide>
+          <img src={img5} alt="Galacticat" />          
+          </SwiperSlide>
+          
           </Swiper>
     </Container>
   );
