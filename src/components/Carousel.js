@@ -14,7 +14,7 @@ import img1 from "../assets/Gcimages/galacticatv2.JPG";
 import img2 from "../assets/Gcimages/galacticatv22.JPG";
 import img3 from "../assets/Gcimages/galacticatv23.JPG";
 import img4 from "../assets/Gcimages/galacticatv24.JPG";
-import img5 from "../assets/Gcimages/galacticatv25.JPG";
+import img5 from "../assets/Gcimages/galacticatv5.JPG";
 
 import Arrow from "../assets/Arrow.svg";
 
