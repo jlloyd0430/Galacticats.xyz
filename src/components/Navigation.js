@@ -167,7 +167,10 @@ const Navigation = () => {
           <MenuItem onClick={() => scrollTo("yarn")}>Yarn</MenuItem>
           <MenuItem onClick={() => scrollTo("team")}>Team</MenuItem>
           <MenuItem onClick={() => scrollTo("faq")}>Faq</MenuItem>
-        </Menu>
+          <MenuItem> <a href="https://galacticdao.xyz/" target="_blank" rel="noopener noreferrer">
+            Vote </a> </MenuItem>
+          <MenuItem> <a href="" target="_blank" rel="noopener noreferrer">
+            Store </a> </MenuItem>          </Menu>
       </NavBar>
     </Section>
   );
