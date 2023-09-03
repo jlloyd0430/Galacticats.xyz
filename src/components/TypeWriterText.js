@@ -101,7 +101,7 @@ const TypeWriterText = () => {
         />
       </Title>
       <SubTitle>
-        Decentralizing oppurtunity, Empowering people, projects, and brands to
+        Decentralizing opportunity, Empowering people, projects, and brands to
         Bring Value to Holders
       </SubTitle>
       <ButtonContainer>
